@@ -7,6 +7,7 @@
 ![Top SKU et évolution mensuelle](screenshots/graphiques_sku.png)
 ![Tableau délai fournisseur](screenshots/delai_fournisseur.png)
 ![Graphique délai fournisseur](screenshots/delai_fournisseur_graphique.png)
+![Système d'alertes](screenshots/alerte.png)
 
 ---
 
