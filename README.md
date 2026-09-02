@@ -5,7 +5,8 @@
 ![KPIs et tableaux de bord](screenshots/dashboard_kpis.png)
 ![Graphiques stock et régions](screenshots/graphiques_stock.png)
 ![Top SKU et évolution mensuelle](screenshots/graphiques_sku.png)
-![Délai par fournisseur](screenshots/delai_fournisseur.png)
+![Tableau délai fournisseur](screenshots/delai_fournisseur.png)
+![Graphique délai fournisseur](screenshots/delai_fournisseur_graphique.png)
 
 ---
 
@@ -33,9 +34,9 @@
 
 - **WH_2 stocke le plus** (491.5 unités en moyenne) vs WH_3 le moins chargé (455.6) → risque d'immobilisation de capital à WH_2
 - **SUP_4 = fournisseur le plus lent** (8.64j) vs SUP_5 le plus rapide (6.96j) → 1.68j d'écart, levier de négociation direct
-- **9.6% des lignes sous seuil** → système d'alertes actif, 8 ruptures imminentes détectées sur 100 lignes
+- **9.6% des lignes sous seuil** → 8 ruptures imminentes détectées sur 100 lignes analysées
 - **Stock au plus haut en Janvier** (527.5) → saisonnalité post-fêtes à anticiper pour les commandes
-- **4 régions équilibrées** (~25% chacune) → pas de dépendance géographique, distribution homogène
+- **4 régions équilibrées** (~25% chacune) → pas de dépendance géographique
 
 ---
 
