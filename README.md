@@ -2,6 +2,7 @@
 
 > Projet portfolio Data Analyst · Secteur Logistique & Retail · 2024
 
+
 ![KPIs et tableaux de bord](screenshots/dashboard_kpis.png)
 ![Graphiques stock et régions](screenshots/graphiques_stock.png)
 ![Top SKU et évolution mensuelle](screenshots/graphiques_sku.png)
